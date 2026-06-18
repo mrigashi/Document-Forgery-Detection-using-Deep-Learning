@@ -92,10 +92,8 @@ No augmentation applied at test time — resize and tensor conversion only.
 ## Project Structure
 
 ```
-├── medical.ipynb          # Full training and evaluation notebook
+├── medical.ipynb        
 ├── README.md
-└── paper/
-    └── forgery_detection_paper.pdf
 ```
 
 ---
@@ -147,20 +145,6 @@ Download DocTamper from Kaggle: [DocTamper Dataset](https://www.kaggle.com/datas
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```
-Mrigashi, Shashi Kumar. "A GAN-Based Forensic Framework for Detecting Forged Digital Medical Certificates." Bennett University, 2026.
-```
-
-DocTamper dataset:
-```
-Qu et al., "Towards Robust Tampered Text Detection in Document Image: New Dataset and New Solution," CVPR 2023.
-```
-
----
 
 ## Author
 

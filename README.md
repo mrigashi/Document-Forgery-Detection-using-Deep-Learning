@@ -2,7 +2,7 @@
 
 > **Research Paper:** *A GAN-Based Forensic Framework for Detecting Forged Digital Medical Certificates*  
 > **Authors:** Mrigashi, Dr. Shashi Kumar — Bennett University  
-> **Dataset:** [DocTamper (Qu et al., CVPR 2023)]([https://github.com/qcf-568/DocTamper](https://www.kaggle.com/datasets/akshitmahajan07/doctamper-dataset)) via Kaggle
+> **Dataset:** [DocTamper]([https://github.com/qcf-568/DocTamper](https://www.kaggle.com/datasets/akshitmahajan07/doctamper-dataset)) via Kaggle
 
 ---
 
@@ -115,7 +115,7 @@ pip install torch torchvision timm efficientnet_pytorch scikit-learn tqdm matplo
 
 ### Dataset
 
-Download DocTamper from Kaggle: [DocTamper Dataset](https://www.kaggle.com/datasets/...)
+Download DocTamper from Kaggle: [DocTamper Dataset](https://www.kaggle.com/datasets/akshitmahajan07/doctamper-dataset)
 
 ---
 
